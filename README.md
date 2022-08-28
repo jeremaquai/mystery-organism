@@ -12,23 +12,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jeremaquai/repo_name">
+  <a href="https://github.com/jeremaquai/mystery-organism">
     <img src="js-logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Challenge Project: Mysterious Organism</h3>
 
   <p align="center">
-    Codecademy Challenge Project to practice working with object factory functions and methods
+    Codecademy Challenge Project to practice working with object factory functions and methods in JavaScript
     <br />
-    <a href="https://github.com/jeremaquai/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jeremaquai/mystery-organism"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jeremaquai/repo_name">View Demo</a>
+    <a href="https://github.com/jeremaquai/mystery-organism">View Demo</a>
     ·
-    <a href="https://github.com/jeremaquai/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/jeremaquai/mystery-organism/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jeremaquai/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/jeremaquai/mystery-organism/issues">Request Feature</a>
   </p>
 </div>
 
@@ -64,9 +64,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/jeremaquai/mystery-organism)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `jeremaquai`, `repo_name`, `twitter_handle`, `jeremiah-sparks`, `gmail.com`, `jeremaquai`, `Challenge Project: Mysterious Organism`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `jeremaquai`, `mystery-organism`, `twitter_handle`, `jeremiah-sparks`, `gmail.com`, `jeremaquai`, `Challenge Project: Mysterious Organism`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -101,7 +101,7 @@ You will need to have Node.js installed on your computer in order to use this co
 
 3. Clone the repo
    ```sh
-   git clone https://github.com/jeremaquai/repo_name.git
+   git clone https://github.com/jeremaquai/mystery-organism.git
    ```
 4. Open main.js with your text editor to inspect the code and play around with it
 
@@ -142,7 +142,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [x] **complementStrand()**
         - method that iterates through the objects dna strand and returns another sting of dna that would be the sequence to bind with the original dna strand to form a double helix dna strand 
 
-See the [open issues](https://github.com/jeremaquai/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/jeremaquai/mystery-organism/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -180,7 +180,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name  - jeremaquai@gmail.com.com
 
-Project Link: [https://github.com/jeremaquai/repo_name](https://github.com/jeremaquai/repo_name)
+Project Link: [https://github.com/jeremaquai/mystery-organism](https://github.com/jeremaquai/mystery-organism)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -191,16 +191,16 @@ Project Link: [https://github.com/jeremaquai/repo_name](https://github.com/jerem
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jeremaquai/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/jeremaquai/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jeremaquai/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/jeremaquai/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/jeremaquai/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/jeremaquai/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jeremaquai/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/jeremaquai/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/jeremaquai/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/jeremaquai/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/jeremaquai/mystery-organism.svg?style=for-the-badge
+[contributors-url]: https://github.com/jeremaquai/mystery-organism/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jeremaquai/mystery-organism.svg?style=for-the-badge
+[forks-url]: https://github.com/jeremaquai/mystery-organism/network/members
+[stars-shield]: https://img.shields.io/github/stars/jeremaquai/mystery-organism.svg?style=for-the-badge
+[stars-url]: https://github.com/jeremaquai/mystery-organism/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jeremaquai/mystery-organism.svg?style=for-the-badge
+[issues-url]: https://github.com/jeremaquai/mystery-organism/issues
+[license-shield]: https://img.shields.io/github/license/jeremaquai/mystery-organism.svg?style=for-the-badge
+[license-url]: https://github.com/jeremaquai/mystery-organism/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jeremiah-sparks
 [product-screenshot]: screenshot.png
