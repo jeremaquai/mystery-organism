@@ -66,7 +66,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/jeremaquai/mystery-organism)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `jeremaquai`, `mystery-organism`, `twitter_handle`, `jeremiah-sparks`, `gmail.com`, `jeremaquai`, `Challenge Project: Mysterious Organism`, `project_description`
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
